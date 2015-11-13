@@ -9,3 +9,5 @@
 **Hobbies:** Developing
 
 **Favorite color:** Blue
+
+**Current City:** Reading
