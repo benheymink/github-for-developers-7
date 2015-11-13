@@ -7,3 +7,5 @@
 **Likes:** Pizza
 
 **Hobbies:** Developing
+
+**Favorite color:** Blue
